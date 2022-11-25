@@ -1,4 +1,4 @@
-// En estas primeras 6 preguntas, reemplaza `null` por la respuesta
+// En estas primeras 6 preguntas, reemplaza `null` por la respuesta "prueba de guardado"
 
 // Crea una variable "string", puede contener lo que quieras:
 const nuevaString = null;
